@@ -10,7 +10,7 @@ import Brand from './components/brand/Brand';
 //import from containers
 import Blog from './containers/blog/Blog';
 import Header from './containers/header/Header';
-import WhatGPT3 from './containers/WhatGPT3/WhatGPT3';
+import WhatGPT3 from './containers/whatGPT3/WhatGPT3';
 import Possibilities from './containers/possibilities/Possibilities';
 import Footer from './containers/footer/Footer';
 import Feature from './containers/Feature/Feature';
