@@ -1,18 +1,18 @@
 import React from 'react';
 
 //import from component
-import Navbar from './components/Navbar/Navbar';
-import CTA from './components/CTA/CTA';
-import Brand from './components/Brand/Brand';
+import Navbar from './components/navbar/Navbar';
+import CTA from './components/cta/CTA';
+import Brand from './components/brand/Brand';
 
 
 
 //import from containers
-import Blog from './containers/Blog/Blog';
-import Header from './containers/Header/Header';
+import Blog from './containers/blog/Blog';
+import Header from './containers/header/Header';
 import WhatGPT3 from './containers/WhatGPT3/WhatGPT3';
-import Possibilities from './containers/Possibilities/Possibilities';
-import Footer from './containers/Footer/Footer';
+import Possibilities from './containers/possibilities/Possibilities';
+import Footer from './containers/footer/Footer';
 import Feature from './containers/Feature/Feature';
 
 
